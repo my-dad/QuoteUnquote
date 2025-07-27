@@ -36,7 +36,10 @@ Absolutely nothing groundbreaking, but hey, it does it with style!
 
 📦 APK 
 
-Download the .apk file here if you want to install this marvel of modern technology directly on your phone: [Download Link](APK link) 
+Download the .apk file here if you want to install this marvel of modern technology directly on your phone: [Download Link](https://github.com/my-dad/QuoteUnquote/blob/master/app-debug.apk) 
 🎉 Conclusion 
 
 There you have it. An app. For quotes. From books. It's not going to change the world, but maybe it'll help you remember that one quote you definitely didn't just screenshot and forget about. 
+
+
+[Reddit post regarding this task](https://www.reddit.com/r/androiddev/comments/1m88pbd/does_this_feel_like_a_valid_assessment_assignment/)
